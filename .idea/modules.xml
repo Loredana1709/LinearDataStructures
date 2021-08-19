@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/Codecademy.iml" filepath="$PROJECT_DIR$/Codecademy.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LinearDataStructure.iml" filepath="$PROJECT_DIR$/LinearDataStructure.iml" />
     </modules>
   </component>
 </project>
