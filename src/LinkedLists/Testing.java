@@ -13,7 +13,7 @@ import DoublyLinkedList.DoublyLinkedList;
     It turns out that the Times Square station is under construction as well. Remove it from the list, and then print the list for the last time.
  */
 
-public class Main {
+public class Testing {
     public static void main(String[] args) {
         DoublyLinkedList subway = new DoublyLinkedList();
         subway.addToHead("Times Square");
