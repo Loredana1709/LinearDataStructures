@@ -10,7 +10,7 @@ import DoublyLinkedList.DoublyLinkedList;
     Then print the list again.
     There’s construction happening on the subway line and the Central Park and Brooklyn Bridge stops will temporarily be closed. Note where these stops are in the list and remove them without iterating through the entire list.
     Then print the list again.
-    It turns out that the Times Square station is under construction as well. Remove it from the list, and then print the list for the last time.
+    It turns out that the Times Square station is under construction as well. Remove it from the list, and then print the list for the last time
  */
 
 public class Testing {
